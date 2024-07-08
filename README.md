@@ -1,6 +1,6 @@
 # Data classificaiton (CNN model)
 
-Evaluating a CNN(Convolutional Neural Network) model on the CIFAR-10 dataset using TensorFlow
+Evaluating a CNN(Convolutional Neural Network) model on the Fashion MNIST dataset using TensorFlow
 It consists of two sets of convolutional layers followed by max pooling and dropout for regularization. The flattened output is connected to dense layers, ending with a softmax activation for 10-class prediction.
 
 ## Installation
